@@ -1,4 +1,5 @@
 # Dataset – Percepções sobre o Uso de Redes Sociais
+DOI: 10.5281/zenodo.20369852
 
 Dados anonimizados utilizados na tese:
 
