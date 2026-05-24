@@ -27,4 +27,4 @@ Isadora Mendes dos Santos
 Este conjunto de dados está licenciado sob CC BY 4.0.
 
 Citação sugerida:
-SANTOS, I. M. Título do conjunto de dados. GitHub, 2026.
+DOS SANTOS, I. M. Dataset – Percepções sobre o Uso de Redes Sociais. GitHub, 2026.
